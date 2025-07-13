@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Dev\\Project\\Capture_App\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1C8D1E1-739D-4C63-B316-AE77502159B2}|Test_ZMQ\\Test_ZMQ.vcxproj|D:\\Dev\\Project\\Capture_App\\Test_ZMQ\\server.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F1C8D1E1-739D-4C63-B316-AE77502159B2}|Test_ZMQ\\Test_ZMQ.vcxproj|solutionrelative:Test_ZMQ\\server.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "server.cpp",
+              "DocumentMoniker": "D:\\Dev\\Project\\Capture_App\\Test_ZMQ\\server.cpp",
+              "RelativeDocumentMoniker": "Test_ZMQ\\server.cpp",
+              "ToolTip": "D:\\Dev\\Project\\Capture_App\\Test_ZMQ\\server.cpp",
+              "RelativeToolTip": "Test_ZMQ\\server.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-13T13:24:31.779Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
